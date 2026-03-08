@@ -74,7 +74,7 @@ tqdm
 python-dotenv
 ⚙ Installation
 Clone the repository
-git clone https://github.com/yourusername/skyguardian.git
+git clone https://github.com/A4no/DroneDetection/
 cd skyguardian
 Install dependencies
 pip install -r requirements.txt
@@ -92,7 +92,7 @@ If the displacement exceeds a defined threshold during time
 𝑡
 t, the system triggers an Active Movement Event.
 
-⚙ Configuration (config.yaml)
+Configuration (config.yaml)
 
 You can adjust system sensitivity without modifying code.
 
